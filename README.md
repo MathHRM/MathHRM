@@ -85,10 +85,10 @@ Um **chat em tempo real** desenvolvido em **C#** com ênfase em arquitetura modu
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathHRM&layout=compact&langs_count=8&theme=dark&bg_color=000000&text_color=ffffff&title_color=9d4edd&border_color=9d4edd" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MathHRM&theme=dark" alt="Top Languages by Commit" />
       </td>
       <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=MathHRM&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=9d4edd&border_color=9d4edd&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathHRM&theme=dark" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
